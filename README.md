@@ -2,8 +2,14 @@
 
 22/1/25 - Learned about C# Comments,Basic Data Types, Variables,Arithmetic Operators,Operator Precedence, Type Conversion
 
-23/1/25 - learned about C# Control Flows,boolean Data Type, Boolean Expressions,Logical Operators, if Conditional Statement along with else if and final else statement, loops - for and while, switch statements
+23/1/25 - Learned about C# Control Flows,boolean Data Type, Boolean Expressions,Logical Operators, if Conditional Statement along with else if and final else statement, loops - for and while, switch statements
 
 25/1/25 - Worked on the Arrays 1D array, 2D array and modifying arrays 
 
-29/1/29 - Learned about strings in C#
+29/1/25 - Learned about strings in C#
+
+31/1/25 - Fundamental of Object-oriented Programming
+
+2/2/25 - Learned and work on Constructors, Instances ,Class variables and Access modifiers
+
+4/2/25 - Worked with this , static, sealed and is operator
