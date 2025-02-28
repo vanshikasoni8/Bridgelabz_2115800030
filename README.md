@@ -1,50 +1,34 @@
-19Jan - Basics cleared
+19Feb - Assignment Done (Solved 10 C# questions)
 
-20Jan - C# basics cleared including all kinds of operators, and learned theoory of c#
+22Feb - Assignment Done(Solved all Level 1 and Level 2 Questions)
 
-21Jan - Practice problems completed successfully.
+23Feb -  Assignment Done(Solved all Level 1, Level 2 and Level 3 Questions)
 
-22Jan - Submission of Programming Element Practices done successfully.
+25-Feb - Assignment Done(Solved all Level 1 and Level 2 Questions)
 
-23Jan - Control Flow Practice problems Level 1, 2, 3 completed successfully.
+27Feb - Assignment Done(Solved all Level 1 and 2 questions)
 
-24Jan - Array Level 1 completed.
+28Feb - Assignment Done(Solved all level 3 Questions)
 
-25Jan - Array Level 2 completed.
+29Feb - Assignment Done(Solved all Level 2 and Level 1 Questions)
 
-27Jan - Method Practice Level 1, 2, 3 completed.
+31Feb - Assignment Done(Solved all OOPS basic questions)
 
-28Jan - String Manipulation Done.
+01Feb - Assignment Done(Solve all OOPS Questions)
 
-30Jan - String In-Built Functions Done.
+04Feb -  Assignment Done(OOPS advanced Level Questions)
 
-31Jan - Oops concept learned & understand.
+08Feb - Assignment Done(Inheritance Questions Done)
 
-02Feb - Submission of C# Constructors, Instance vs. Class Variables, Access Modifiers Level 1 Lab Practice
+09Feb - Assignment Done(Solved all OOPS Assignment Questions)
 
-03Feb - Submission of this, sealed, static key words and is operator Content Level 1 Lab Practice
+12Feb -  Assignment Done(Solved all Questions related to Stack, Queues, Maps and Sets)
 
-04Feb - Deep dive into constructor and study the use cases of static and private constructor.
+13Feb - Assignment Done(Solved all Sorting Algorithms Questions)
 
-05Feb - Object Relationship and communication completed.
+15Feb -  Assignment Done(Solved all StringBuilder Questions)
 
-06Feb - Submission of Class, Object and Sequenece Diagram.
-
-07Feb - Understand inheritance and perform Method overriding on some problems.
-
-08Feb - Problem on inheritance and its types.
-
-10Feb - Submission of Encapsulation, Polymorphism, Interface, and Abstract class.
-
-11Feb - 9 Problems on Linked List Done successfully.
-
-12Feb - Queue Using Stacks Problem Solved.
-
-13Feb - Problems on Stack, Queue, HashMap solved.
-
-14Feb - Problems on Quick, Selection, Bubble, Merge, Heap, Insertion, Counting sort.
-
-15Feb - Problems solved on Searching and String Builder.
+16Feb - Assignment Done(Solved Several Sorting and Searching Question for Time Complexity Analisys)
 
 17Feb - Submission of Algorithm's Runtime Analysis & Big-O Notation.
 
