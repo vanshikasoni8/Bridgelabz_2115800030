@@ -49,3 +49,7 @@
 26Feb - Submission of JSON Assignment.
 
 28Feb - Submission of Live Class Project And UserRegistration Project using WEBAPI and class Library.
+
+01Mar - UserRegistration WebApi Checked using PostMan with 4 input fields and studies about layers i.e model , Business , Repository && submitted Assignment
+
+03Mar - Submission of Swagger and Nlog.
